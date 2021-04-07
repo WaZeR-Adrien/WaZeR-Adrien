@@ -4,7 +4,7 @@ I'm Adrien Martineau, web and mobile developer using mostly Node.js, PHP, Angula
 
 ### 📋 My projects
 
-- [MyBooksMemory](https://github.com/InnovA2/mybooksmemory) : Mobile app using NestJS, Ionic and Angular, which allows to user to manage owned books and discover new books. Also, the application allows to know the bookstores around the user.
+- [MyBooksMemory](https://github.com/InnovA2/mybooksmemory) : Mobile app using NestJS, Ionic, Angular and Symfony (for the web scraper), which allows to user to manage owned books and discover new books. Also, the application allows to know the bookstores around the user.
 - [SAM-Arduino-matrix](https://github.com/WaZeR-Adrien/SAM-Arduino-matrix) : Arcade terminal project using an Arduino as well as an RGB matrix.
 - ~~Heroes-Team~~ : Web app using Lightwork-API and AngularJS, which help recruitment in Heroes of the Storm with an algorithm of proposition. There was also a Discord BOT nammed "Heroes-Team-BOT" using Node.js with Discord.js. *[No longer maintained]*
 - ~~Pharmapp~~ : Mobile app using Express, Ionic and Angular, which allows to users to make an appointment with a practitioner (including Google Maps) *[No longer maintained]*
