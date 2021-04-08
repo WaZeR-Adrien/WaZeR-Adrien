@@ -9,6 +9,7 @@ I'm Adrien Martineau, web and mobile developer using mostly Node.js, PHP, Angula
 - [SAM-Arduino-matrix](https://github.com/WaZeR-Adrien/SAM-Arduino-matrix) : Arcade terminal project using an Arduino as well as an RGB matrix.
 - ~~Heroes-Team~~ : Web app using Lightwork-API and AngularJS, which help recruitment in Heroes of the Storm with an algorithm of proposition. There was also a Discord BOT nammed "Heroes-Team-BOT" using Node.js with Discord.js. *[No longer maintained]*
 - ~~Pharmapp~~ : Mobile app using Express, Ionic and Angular, which allows to users to make an appointment with a practitioner (including Google Maps) *[No longer maintained]*
+
 > **Note:** The **Heroes-Team** project counted more than 500 users but the bad choices of the game's teams caused it to quickly lose popularity, which impacted my site. That's why I decided to stop it, for lack of activity.
 
 ### 🛠 My Libraries
