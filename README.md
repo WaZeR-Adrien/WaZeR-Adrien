@@ -17,7 +17,7 @@ I'm Adrien Martineau, web and mobile developer using mostly Node.js, PHP, Angula
 - [Url-Builder](https://github.com/InnovA2/url-builder) (NPM public registry) : TypeScript library to easy build URLs
 - [Url-Builder](https://github.com/InnovA2/url-builder-php) (Packagist public repository) : PHP library similar to previous Url-Builder
 - [PHPCollection](https://github.com/WaZeR-Adrien/PHPCollection) (Packagist public repository) : PHP library which includes the basics of collections in Java and lists in JavaScript
-- [winston-pg-nest](https://github.com/InnovA2/winston-pg-nest) (NPM public registry) : TypeScript winston transport to PostgreSQL
+- [winston-pg-nest](https://github.com/InnovA2/winston-pg-nest) (NPM public registry) : TypeScript winston transport to PostgreSQL compatible with NestJS
 - ~~Lightwork-API~~ : PHP lightweight framework for training / beginners *[No longer maintained]*
 
 ### 📫 How to contact me
