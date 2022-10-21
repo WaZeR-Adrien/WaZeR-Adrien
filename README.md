@@ -1,6 +1,6 @@
 Hi!
 
-I'm Adrien Martineau, web and mobile developer using mostly Node.js, PHP, Angular and Ionic (and Flutter soon 😉). I participate in projects and libraries alone or in a group in theses languages / frameworks.
+I'm Adrien Martineau, web and mobile developer using mostly Node.js, PHP, Angular and Ionic. I participate in projects and libraries alone or in a group in theses languages / frameworks.
 
 ### 📋 My projects
 
