@@ -11,6 +11,7 @@ I'm Adrien Martineau, web and mobile developer using mostly Node.js, Angular, Io
 
 ### 🛠 My Libraries
 
+- [ngx-http-helper](https://github.com/InnovA2/ngx-http-helper) (NPM public registry) : Helper for HTTP calls on Angular (Token Interceptor, Api service and helper...)
 - [Url-Builder](https://github.com/InnovA2/url-builder) (NPM public registry) : TypeScript library to easy build URLs
 - [Url-Builder](https://github.com/InnovA2/url-builder-php) (Packagist public repository) : PHP library similar to previous Url-Builder
 - [PHPCollection](https://github.com/WaZeR-Adrien/PHPCollection) (Packagist public repository) : PHP library which includes the basics of collections in Java and lists in JavaScript
