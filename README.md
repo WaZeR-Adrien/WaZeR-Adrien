@@ -15,7 +15,7 @@ I'm Adrien Martineau, web and mobile developer using mostly Node.js, Angular, Io
 - [Url-Builder](https://github.com/InnovA2/url-builder) (NPM public registry) : TypeScript library to easy build URLs
 - [Url-Builder](https://github.com/InnovA2/url-builder-php) (Packagist public repository) : PHP library similar to previous Url-Builder
 - [winston-mongodb](https://github.com/InnovA2/winston-mongodb) (NPM public registry) : A easy to use TypeScript MongoDB transport for winston
-- [winston-pg] (https://github.com/InnovA2/winston-pg) (NPM public registry) : TypeScript PostgreSQL transport for winston *[Patch but no longer active maintenance]*
+- [winston-pg](https://github.com/InnovA2/winston-pg) (NPM public registry) : TypeScript PostgreSQL transport for winston *[Patch but no longer active maintenance]*
 - ~~[PHPCollection (https://github.com/WaZeR-Adrien/PHPCollection)~~ (Packagist public repository) : PHP library which includes the basics of collections in Java and lists in JavaScript *[No longer maintained]*
 - ~~Lightwork-API~~ : PHP lightweight framework for training / beginners *[No longer maintained]*
 
