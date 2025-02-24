@@ -1,6 +1,6 @@
 Hi!
 
-I'm Adrien Martineau, web and mobile developer using mostly Node.js, NestJS, Angular, Ionic, React and AWS. I participate in projects and libraries alone or in a group in theses languages / frameworks.
+I'm Adrien Martineau, web and mobile developer using mostly Node.js, NestJS, Angular, Ionic, React, AWS and Terraform. I participate in projects and libraries alone or in a group in theses languages / frameworks.
 
 ### 📋 My projects
 
